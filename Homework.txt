@@ -1,2 +1,3 @@
 print("Hello World twice");
 print("Hi");
+print("Thanks!");
